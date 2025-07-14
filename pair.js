@@ -77,7 +77,7 @@ router.get("/", async (req, res) => {
             );
 
             const string_session = mega_url.replace(
-              "https://i.im.ge/2025/07/15/J9frAx.Picsart-25-07-15-04-11-39-102.jpeg",
+              "https://ik.imagekit.io/mzhjnl2sl/Picsart_25-07-15_04-11-39-102.jpg?updatedAt=1752535203065",
               ""
             );
 
